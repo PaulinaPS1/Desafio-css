@@ -1,0 +1,41 @@
+header{
+    
+    background-image: url("../images/Escandalosos..jpg");
+    height: 200px;
+    width: 1500px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+header h1{
+    font-size: 35px;
+    color: rgb(187, 6, 87);
+}
+p{
+    text-align: center;
+    color: rgb(187, 6, 87);
+}
+
+.section__1{ 
+    width: 300px;
+}
+.section__1 img{
+    width: 100%;
+    border: 1px solid pink;
+}
+
+.table{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+footer {
+    background-color: pink;
+    height: 20px;
+    padding-bottom: 10px;
+}
+    
